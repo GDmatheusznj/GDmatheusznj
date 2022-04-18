@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GDmatheusznj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in .jogo
+- 🌱 I’m currently learning linpo
+- 💞️ I’m looking to collaborate on joga bola
+- 📫 How to reach me vc
+
 (Github) Welcome tô GitHub
 
 <!---
